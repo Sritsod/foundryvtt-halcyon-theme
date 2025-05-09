@@ -1,14 +1,24 @@
-/* Hero 6E Theme - Basic Styles */
+
+/* Halcyon City Blue Theme - Styles */
 body {
-    background: url('../images/hero6e_background.png') no-repeat center center fixed;
+    background: url('../images/hero6e_background_blue.png') no-repeat center center fixed;
     background-size: cover;
-    color: #fff;
+    color: #e0f0ff;
 }
+
 .window-content {
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(0, 0, 40, 0.75);
+    border: 1px solid #3380ff;
 }
+
 button {
-    background-color: #ff0000;
+    background-color: #3380ff;
     color: white;
     border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 5px #2266cc;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #a3cfff;
 }
