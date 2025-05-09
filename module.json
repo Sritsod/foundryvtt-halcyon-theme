@@ -1,0 +1,18 @@
+{
+  "name": "halcyon-theme",
+  "title": "Halcyon City Superhero Theme",
+  "description": "A dramatic superhero silhouette theme for Foundry VTT, perfect for modern or comic-style campaigns.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "11",
+  "author": "Sritsod",
+  "esmodules": [],
+  "styles": [
+    "styles/hero6e.css"
+  ],
+  "packs": [],
+  "languages": [],
+  "url": "https://github.com/Sritsod/foundryvtt-halcyon-theme",
+  "manifest": "https://sritsod.github.io/foundryvtt-halcyon-theme/module.json",
+  "download": "https://github.com/Sritsod/foundryvtt-halcyon-theme/archive/refs/heads/main.zip"
+}
