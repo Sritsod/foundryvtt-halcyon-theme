@@ -1,0 +1,14 @@
+/* Hero 6E Theme - Basic Styles */
+body {
+    background: url('../images/hero6e_background.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+.window-content {
+    background: rgba(0, 0, 0, 0.75);
+}
+button {
+    background-color: #ff0000;
+    color: white;
+    border-radius: 5px;
+}
